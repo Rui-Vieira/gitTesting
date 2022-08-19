@@ -7,9 +7,12 @@ public class Main {
         private int branchNumber = 1;
         changes_in_Main_class
         String heSucks = "He is the worst";
+        changes_in_Main_class
+        private String name;
+  
         private int sum;
         sum = 1+1;
-        main
+
     }
 
 
