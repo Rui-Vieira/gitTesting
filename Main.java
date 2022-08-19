@@ -5,6 +5,7 @@ public class Main {
 
         Menu.start();
         private int branchNumber = 1;
+        String heSucks = "He is the worst";
     }
 
 
