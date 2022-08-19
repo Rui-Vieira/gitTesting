@@ -4,6 +4,7 @@ import java.util.Collections;
 public class Main {
 
         Menu.start();
+        private int branchNumber = 1;
     }
 
-}
+
